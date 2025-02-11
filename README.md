@@ -44,6 +44,6 @@ Bem-vindo ao **Musicfy**! 🎧 Um site de streaming de músicas e podcasts desen
 
 # 💻 Link do Projeto
 
-Segue o link do Site: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/musicfy/)
+Segue o link do Site: [CLIQUE AQUI](https://musicfy-weld.vercel.app/)
 
 

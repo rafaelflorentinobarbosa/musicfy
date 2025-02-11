@@ -14,7 +14,6 @@ Bem-vindo ao **Musicfy**! 🎧 Um site de streaming de músicas e podcasts desen
 - 🎶 Navegação por categorias, como "Boas festas", "Feitos para você", "Lançamentos" e "Creators".
 - 📂 Opção para criar sua própria playlist personalizada.
 - 🌐 Interface responsiva, adaptada para diferentes dispositivos.
-- 🆓 Possibilidade de experimentar um plano premium gratuitamente.
 
 ---
 
@@ -45,6 +44,6 @@ Bem-vindo ao **Musicfy**! 🎧 Um site de streaming de músicas e podcasts desen
 
 # 💻 Link do Projeto
 
-Segue o link do Site Sorteador: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/musicfy/)
+Segue o link do Site: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/musicfy/)
 
 
